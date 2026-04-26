@@ -1,0 +1,23 @@
+\begin{center}
+\begin{tikzpicture}[scale=0.7]
+\begin{axis}[
+title={Delay vs Simulation},
+xlabel={Simulation Index}, ylabel={Delay (sec)},
+xmin=1, xmax=6, ymin=0, ymax=0.3,
+legend pos=north west,
+xtick={1,2,3,4,5,6},
+grid=both
+]
+
+\addplot[blue, mark=o] coordinates {(1,0.00288) (2,0.02759) (3,0.01361) (4,0.03947) (5,0.03947) (6,0.25174)};
+\addplot[red, mark=square*] coordinates {(1,0.002) (2,0.007) (3,0.033) (4,0.023) (5,0.021) (6,0.259)};
+\addplot[green!60!black, mark=triangle*] coordinates {(1,0.001857) (2,0.001857) (3,0.001857) (4,0.001857) (5,0.001857) (6,0.001857)};
+\addplot[orange, mark=diamond*] coordinates {(1,0.000924) (2,0.000924) (3,0.000924) (4,0.000924) (5,0.000924) (6,0.000924)};
+
+\legend{Proposed, MAGNNETO, G-Routing, GTSR}
+
+\end{axis}
+\end{tikzpicture}
+
+\textbf{Figure \thefigure: Delay vs Simulation}
+\end{center}

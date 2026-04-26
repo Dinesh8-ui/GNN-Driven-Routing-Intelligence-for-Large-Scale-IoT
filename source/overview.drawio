@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" scale="1" border="0">
+  <diagram name="Page-1" id="yExVrTn0XdDRBgiSSLuh">
+    <mxGraphModel dx="2620" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" adaptiveColors="none">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A5EDXyeOo0cR9Kp3ysJy-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;IoT Sensor Nodes&lt;/b&gt;&lt;div&gt;Multiple nodes&lt;/div&gt;&lt;div&gt;Random deployment&lt;/div&gt;&lt;div&gt;Data Integration&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="430" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&amp;nbsp;Network Graph Formation&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Nodes converted to graph&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Edges represent connectivity&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Topology creation&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="420" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Feature Extraction Module&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Graph neural network&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Learns optimal paths&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Predicts routing efficiency&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="420" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&amp;nbsp;Adaptive Routing Decision Engine&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Selects best route&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Avoids congestion&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Dynamic updates&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="430" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&amp;nbsp;Data Transmission&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Packet forwarding&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Multi hop communication&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="430" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&amp;nbsp;Performance Evaluation Metrics&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;PDR&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Delay&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Jitter&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Throughput&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Energy&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="170" x="430" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;GNN Based Learning Model&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Graph neural network&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Learns optimal paths&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Predicts routing efficiency&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="420" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--12" edge="1" parent="1" source="A5EDXyeOo0cR9Kp3ysJy-2" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="495" y="380" as="sourcePoint" />
+            <mxPoint x="495" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--14" edge="1" parent="1" source="nac-L3jhYebiuwlPXqE--1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nac-L3jhYebiuwlPXqE--2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="540" as="sourcePoint" />
+            <mxPoint x="530" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--17" edge="1" parent="1" source="nac-L3jhYebiuwlPXqE--4" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="489" y="920" as="sourcePoint" />
+            <mxPoint x="514" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--18" edge="1" parent="1" source="nac-L3jhYebiuwlPXqE--5" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nac-L3jhYebiuwlPXqE--7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="1060" as="sourcePoint" />
+            <mxPoint x="550" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--19" edge="1" parent="1" source="nac-L3jhYebiuwlPXqE--7" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="nac-L3jhYebiuwlPXqE--9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="1100" />
+              <mxPoint x="910" y="690" />
+            </Array>
+            <mxPoint x="690" y="770" as="sourcePoint" />
+            <mxPoint x="740" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--20" edge="1" parent="1" source="nac-L3jhYebiuwlPXqE--2" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="nac-L3jhYebiuwlPXqE--9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="500" y="610" as="sourcePoint" />
+            <mxPoint x="550" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--21" edge="1" parent="1" source="nac-L3jhYebiuwlPXqE--9" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.444;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="nac-L3jhYebiuwlPXqE--4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="790" as="sourcePoint" />
+            <mxPoint x="520" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nac-L3jhYebiuwlPXqE--22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;FEEDBACK LOOP&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="920" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="R-p5wsTtQDssMF4U61rL-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Overview of Proposed Intelligent Routing Framework&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="350" y="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
